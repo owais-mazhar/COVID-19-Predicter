@@ -1,6 +1,3 @@
-Certainly! Here's a README.md file tailored for your COVID-19 Predictor project:
-
-```markdown
 # COVID-19 Predictor Web Application
 
 Welcome to the COVID-19 Predictor Web Application! This project utilizes a deep learning model to predict whether an input chest X-ray image shows signs of COVID-19, Normal, or Pneumonia. The model has achieved an accuracy of 90%, making it reliable for practical use.
@@ -50,11 +47,7 @@ Welcome to the COVID-19 Predictor Web Application! This project utilizes a deep 
 
 ## Contribution
 
-Contributions are welcome! If you want to contribute to this project, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+Contributions are welcome! If you want to contribute to this project, open an issue or submit a pull request.
 
 ## Acknowledgements
 
@@ -62,5 +55,5 @@ Special thanks to the creators of the datasets used for training the deep learni
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, feel free to contact the project maintainer at owaisraza78617@gmail.com.
+If you have any questions or suggestions regarding this project, please contact the project maintainer at owaisraza78617@gmail.com.
 ```
