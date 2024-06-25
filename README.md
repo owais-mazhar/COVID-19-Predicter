@@ -55,5 +55,4 @@ Special thanks to the creators of the datasets used for training the deep learni
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, please contact the project maintainer at owaisraza78617@gmail.com.
-```
+If you have any questions or suggestions regarding this project, please get in touch with the project maintainer at owaisraza78617@gmail.com
